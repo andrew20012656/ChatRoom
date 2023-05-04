@@ -2,6 +2,8 @@
 
 A simple version of chatroom application created with Java. 
 
+<img src="./chatroom-demo.gif" width="300" height="300" alt = "Chatroom Demo"/>
+
 # Table of Contents
 * [Introduction](#introduction)
 * [Motivation](#motivation)
